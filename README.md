@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamilvilela
 - 👀 I’m interested in Data Engineering, Business Intelligence, Data Integrations, Data Modelling.
-- 🌱 I’m currently learning Databricks 
+- 🌱 I’m currently working on Databricks 
 - 💞️ I’m looking to collaborate on data engineering and business intelligence projects.
 - 📫 How to reach me: 
 - jamilvilela@gmail.com
